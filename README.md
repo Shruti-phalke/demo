@@ -1,4 +1,5 @@
 # demo
 This is my first git repository
 <br>
-Author- shruti phalke
+Author- shruti (umit)
+
